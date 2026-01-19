@@ -3,7 +3,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> Tech Stack and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
