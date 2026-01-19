@@ -1,4 +1,4 @@
-<h2 align="left">Hello! Welcome to my Profie, I'm Elina Magar</h2>
+
 <h3 align="left">Python Developer | Backend Engineer | Data Analytics Enthusiast</h3>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
@@ -60,7 +60,7 @@
   <a href="mailto:epunmagar6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/elina-pun-magar-2a8594361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://www.linkedin.com/in/elina-pun-magar-2a8594361" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://www.facebook.com/share/1Bwq61v3tQ/?mibextid=wwXIfr" target="_blank">
@@ -70,12 +70,12 @@
 
 <!-- GitHub Stats Card -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elina-magars&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <!-- Pinned Projects -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=radical" alt="Pinned Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elina-magars&repo=your-repo-name&theme=radical" alt="Pinned Project" />
 </p>
 
 <!-- Animated Text -->
