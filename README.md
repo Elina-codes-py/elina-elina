@@ -85,7 +85,8 @@
 <!-- Animated Text -->
 <h3 align="left">
   <a href="" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000,00FF00,FF69B4&width=500&lines=Building+Innovative+Projects;Learning+Every+Day;Sharing+Knowledge" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F70000&width=500&lines=Building+Innovative+Projects;Learning+Every+Day;Sharing+Knowledge" alt="Typing SVG" />
   </a>
 </h3>
+
 
