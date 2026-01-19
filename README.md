@@ -4,8 +4,9 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F70000&width=500&lines=Languages+and+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF&center=true&width=500&lines=Languages+and+Tools" alt="Animated Languages and Tools" />
 </h3>
+
 
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
