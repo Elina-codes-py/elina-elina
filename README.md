@@ -1,4 +1,4 @@
-
+<h2 align="left">Hello! Welcome to my Profie, I'm Elina Magar</h2>
 <h3 align="left">Python Developer | Backend Engineer | Data Analytics Enthusiast</h3>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> 
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
